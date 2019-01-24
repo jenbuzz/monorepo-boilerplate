@@ -1,3 +1,3 @@
 module.exports = () => {
-	console.log('​hello from shared');
+	console.log('hello from shared');
 };
