@@ -1,0 +1,12 @@
+{
+  "name": "@monorepo-boilerplate/server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo 'Running test in server package'"
+  },
+  "dependencies": {
+    "@monorepo-boilerplate/shared": "1.0.0"
+  }
+}

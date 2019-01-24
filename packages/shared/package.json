@@ -1,0 +1,9 @@
+{
+  "name": "@monorepo-boilerplate/shared",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo 'Running test in shared package'"
+  }
+}
